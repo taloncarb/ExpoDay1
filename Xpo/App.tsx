@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   button: {
    backgroundColor: 'lightblue',
-   width: '200px',
-   height: '50px',
+   width: 200,
+   height: 50,
   }
 });
